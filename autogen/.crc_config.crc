@@ -1,0 +1,24 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Tue Sep 08 16:10:53 CEST 2020
+nvm3_default_config.h=44458093
+sl_bluetooth_config.h=1439758689
+SEGGER_RTT_Conf.h=-2139387046
+sl_device_init_lfrco_config.h=-1106719712
+sl_device_init_lfxo_config.h=-1419356131
+mbedtls_config.h=776721987
+sl_mx25_flash_shutdown_config.h=-427424642
+sl_sleeptimer_config.h=-386016533
+sl_iostream_vuart_config.h=1307377037
+sl_device_init_dcdc_config.h=-870566101
+sl_device_init_emu_config.h=622680131
+sl_rail_util_pa_config.h=-1281820313
+btconf/ota_dfu.xml=-640830817
+sl_rail_util_pti_config.h=-754441381
+btconf/gatt_configuration.btconf=2010503253
+sl_app_assert_config.h=1721802231
+tempdrv_config.h=693255415
+sl_device_init_hfxo_config.h=-884015270
+sl_pwm_init_soil_clock_config.h=-773051004
+sl_board_control_config.h=-1871015255
+sl_power_manager_config.h=250630329
+sl_memory_config.h=1586349205

@@ -1,0 +1,3 @@
+[submodule "LoRaMac-node"]
+	path = LoRaMac-node
+	url = https://github.com/strataggem/LoRaMac-node
